@@ -1,22 +1,22 @@
 @keyframes flipInX {
   0% {
-    transform: perspective(400px) rotate3d(1, 0, 0, 90deg);
+    transform: perspective(400px) rotateX(90deg);
     transition-timing-function: ease-in;
     opacity: 0;
   }
 
   40% {
-    transform: perspective(400px) rotate3d(1, 0, 0, -20deg);
+    transform: perspective(400px) rotateX(-10deg);
     transition-timing-function: ease-in;
   }
 
   60% {
-    transform: perspective(400px) rotate3d(1, 0, 0, 10deg);
+    transform: perspective(400px) rotateX(10deg);
     opacity: 1;
   }
 
   80% {
-    transform: perspective(400px) rotate3d(1, 0, 0, -5deg);
+    transform: perspective(400px) rotateX(0deg);
   }
 
   100% {

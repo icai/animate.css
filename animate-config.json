@@ -13,18 +13,18 @@
 
   "bouncing_entrances": {
     "bounceIn": true,
-    "bounceInDown": true,
-    "bounceInLeft": true,
-    "bounceInRight": true,
-    "bounceInUp": true
+    "bounceInDown": false,
+    "bounceInLeft": false,
+    "bounceInRight": false,
+    "bounceInUp": false
   },
 
   "bouncing_exits": {
     "bounceOut": true,
-    "bounceOutDown": true,
-    "bounceOutLeft": true,
-    "bounceOutRight": true,
-    "bounceOutUp": true
+    "bounceOutDown": false,
+    "bounceOutLeft": false,
+    "bounceOutRight": false,
+    "bounceOutUp": false
   },
 
   "fading_entrances": {
@@ -60,59 +60,59 @@
   },
 
   "lightspeed": {
-    "lightSpeedIn": true,
-    "lightSpeedOut": true
+    "lightSpeedIn": false,
+    "lightSpeedOut": false
   },
 
   "rotating_entrances": {
     "rotateIn": true,
-    "rotateInDownLeft": true,
-    "rotateInDownRight": true,
-    "rotateInUpLeft": true,
-    "rotateInUpRight": true
+    "rotateInDownLeft": false,
+    "rotateInDownRight": false,
+    "rotateInUpLeft": false,
+    "rotateInUpRight": false
   },
 
   "rotating_exits": {
     "rotateOut": true,
-    "rotateOutDownLeft": true,
-    "rotateOutDownRight": true,
-    "rotateOutUpLeft": true,
-    "rotateOutUpRight": true
+    "rotateOutDownLeft": false,
+    "rotateOutDownRight": false,
+    "rotateOutUpLeft": false,
+    "rotateOutUpRight": false
   },
 
   "specials": {
-    "hinge": true,
-    "rollIn": true,
-    "rollOut": true
+    "hinge": false,
+    "rollIn": false,
+    "rollOut": false
   },
 
   "zooming_entrances": {
     "zoomIn": true,
-    "zoomInDown": true,
-    "zoomInLeft": true,
-    "zoomInRight": true,
-    "zoomInUp": true
+    "zoomInDown": false,
+    "zoomInLeft": false,
+    "zoomInRight": false,
+    "zoomInUp": false
   },
 
   "zooming_exits": {
     "zoomOut": true,
-    "zoomOutDown": true,
-    "zoomOutLeft": true,
-    "zoomOutRight": true,
-    "zoomOutUp": true
+    "zoomOutDown": false,
+    "zoomOutLeft": false,
+    "zoomOutRight": false,
+    "zoomOutUp": false
   },
 
   "sliding_entrances": {
-    "slideInDown": true,
-    "slideInLeft": true,
-    "slideInRight": true,
-    "slideInUp": true
+    "slideInDown": false,
+    "slideInLeft": false,
+    "slideInRight": false,
+    "slideInUp": false
   },
 
   "sliding_exits": {
-    "slideOutDown": true,
-    "slideOutLeft": true,
-    "slideOutRight": true,
-    "slideOutUp": true
+    "slideOutDown": false,
+    "slideOutLeft": false,
+    "slideOutRight": false,
+    "slideOutUp": false
   }
 }

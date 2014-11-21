@@ -3,7 +3,9 @@
 Animate.css - http://daneden.me/animate
 Licensed under the MIT license - http://opensource.org/licenses/MIT
 
-Copyright (c) 2014 Daniel Eden
+Copyright (c) 2014 Daniel Eden 
+Custom version 2014-11-21T22:45:26+08:00
+
 */
 
 .animated {
@@ -17,4 +19,8 @@ Copyright (c) 2014 Daniel Eden
 
 .animated.hinge {
   animation-duration: 2s;
+}
+
+.animated.fast{
+	animation-duration: 0.2s;
 }
