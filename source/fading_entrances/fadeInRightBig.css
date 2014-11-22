@@ -1,5 +1,5 @@
 @keyframes fadeInRightBig {
-  0% {
+  5% {
     opacity: 0;
     transform: translateX(10px);
   }
